@@ -44,3 +44,6 @@
 /home/caroline/Documentos/CSharp_Projetos/Tryitter/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
 /home/caroline/Documentos/CSharp_Projetos/Tryitter/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
 /home/caroline/Documentos/CSharp_Projetos/Tryitter/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/caroline/Documentos/CSharp_Projetos/Tryitter/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/caroline/Documentos/CSharp_Projetos/Tryitter/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/caroline/Documentos/CSharp_Projetos/Tryitter/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
